@@ -6,6 +6,7 @@
 ```
 print("Hello Manu!")
 ```
+Output: Hello Manu!
 **Practicing the own python codes**
 ```
 print("Hello Manu!")
