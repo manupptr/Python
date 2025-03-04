@@ -31,6 +31,7 @@ print(f"Hello, {name}! It's great to hear that you are from {state}.")
 print("Let's start exploring together!")
 ```
 Output:
+
 we are welcoming you
 
 Hello, Manu! It's great to hear that you are from Andhra pradesh.
