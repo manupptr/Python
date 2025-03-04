@@ -56,12 +56,20 @@ print(f"Student: {is_student}")
 ```
 Output:
 Name: Manu
+
 Age: 24
+
 Height: 1.75
+
 Are You a Student? (yes/No): yes
 
+
  Personal Information summary
+
 Name: Manu
+
 Age: 24
+
 Height: 1.75 meters
+
 Student: True
