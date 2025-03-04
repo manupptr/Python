@@ -64,6 +64,7 @@ Height: 1.75
 Are You a Student? (yes/No): yes
 
 
+
  Personal Information summary
 
 Name: Manu
