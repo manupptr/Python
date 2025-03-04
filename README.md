@@ -6,8 +6,16 @@
 ```
 print("Hello Manu!")
 ```
-**Practicing the own python code**
+**Practicing the own python codes**
 ```
 print("Hello Manu!")
 Print("How Are You?")
 ```
+Output: Hello Manu!
+        How Are You?
+
+```
+if 10 > 5:
+    print("10 is greater than 5")
+```
+Output: 10 is greater than 5
