@@ -38,3 +38,30 @@ we are welcoming you
 Hello, Manu! It's great to hear that you are from Andhra pradesh.
 
 Let's start exploring together!
+
+**Personal Information Collecting project**
+Creating the Personal-info-collector.py and adding the below code into the file
+```
+name = input("Name: ")
+age = int(input("Age: ")) #converting the string into integer
+height = float(input("Height: "))
+is_student = input("Are You a Student? (yes/No): ").lower() == "yes"
+
+# printing the collected information below
+print("\n Personal Information summary")
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Height: {height} meters")
+print(f"Student: {is_student}")
+```
+Output:
+Name: Manu
+Age: 24
+Height: 1.75
+Are You a Student? (yes/No): yes
+
+ Personal Information summary
+Name: Manu
+Age: 24
+Height: 1.75 meters
+Student: True
