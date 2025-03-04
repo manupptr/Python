@@ -32,5 +32,7 @@ print("Let's start exploring together!")
 ```
 Output:
 we are welcoming you
+
 Hello, Manu! It's great to hear that you are from Andhra pradesh.
+
 Let's start exploring together!
