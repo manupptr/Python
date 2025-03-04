@@ -1,7 +1,7 @@
 name = input("Name: ")
 age = int(input("Age: ")) #converting the string into integer
 height = float(input("Height: "))
-Is_student = input("yes").lower() == "yes"
+is_student = input("Are You a Student? (yes/No): ").lower() == "yes"
 
 # printing the collected information below
 print("\n Personal Information summary")
