@@ -1,5 +1,5 @@
-name = input("Manu:")
-age = int(input("24")) #converting the string into integer
+name = input("Enter Your Name:")
+age = int(input("Age")) #converting the string into integer
 height = float(input("1.75"))
 Is_student = input("yes").lower() == "yes"
 
