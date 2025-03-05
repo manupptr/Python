@@ -13,5 +13,5 @@ print(f"Student: {is_student}")
 """
 print(info)
 with open("manu_info.txt","w") as file:
-    file.written(info)
+    file.write(info)
     print("Information collected succesfully in 'manu_info.txt'.")
