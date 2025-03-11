@@ -39,6 +39,9 @@ Hello, Manu! It's great to hear that you are from Andhra pradesh.
 
 Let's start exploring together!
 
+
+## Variables and DataTypes
+
 **Personal Information Collecting project**
 Creating the Personal-info-collector.py and adding the below code into the file
 ```
@@ -62,7 +65,6 @@ Age: 24
 Height: 1.75
 
 Are You a Student? (yes/No): yes
-
 
 
  Personal Information summary

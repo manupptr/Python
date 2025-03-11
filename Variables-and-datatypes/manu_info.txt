@@ -1,0 +1,6 @@
+
+Personal Information summary
+Name: Manu
+Age: 24 Year's
+Height: 1.75 meters
+Student: True
