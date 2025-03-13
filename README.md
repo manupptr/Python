@@ -78,7 +78,7 @@ Height: 1.75 meters
 Student: True
 
 
-**Created an Advanced Calculator Using Input/Output, Type Conversion, f-strings, Conditional Statements, Arithmetic Operators (+, -, *, /, %, //, **), Bitwise Operators (&, |, ^, <<, >>), Comparison Operators (==, !=, >, <, >=, <=), Error Handling (Division by Zero), Edge Case Handling (Invalid Operator), Logical Conditions, Bug Fixing (Exponentiation Operator Correction)**
+**Created an Advanced Calculator Using Input/Output, Type Conversion, f-strings, Conditional Statements, Arithmetic Operators, Bitwise Operators, Comparison Operators, Error Handling (Division by Zero), Edge Case Handling (Invalid Operator), Logical Conditions, Bug Fixing (Exponentiation Operator Correction)**
 ```
 num1 = int(input("Enter First Number: "))
 num2 = int(input("Enter Second Number: "))
