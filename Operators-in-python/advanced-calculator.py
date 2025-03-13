@@ -1,6 +1,6 @@
 num1 = int(input("Enter First Number: "))
 num2 = int(input("Enter Second Number: "))
-operator = input("Enter Operator (+, -, *, /, %, //, **, &, |, ^, ~, <<, >>, ==, !=, <, >, <=, >=) ")
+operator = input("Enter Operator (+, -, *, /, %, //, **, &, |, ^, ~, <<, >>, ==, !=, <, >, <=, >=): ")
 
 if operator == "+":
     result = num1 + num2

@@ -77,4 +77,57 @@ Height: 1.75 meters
 
 Student: True
 
-Creating an Advanced Calculator Using Arithematic, 
+
+**Created an Advanced Calculator Using Input/Output, Type Conversion, f-strings, Conditional Statements, Arithmetic Operators (+, -, *, /, %, //, **), Bitwise Operators (&, |, ^, <<, >>), Comparison Operators (==, !=, >, <, >=, <=), Error Handling (Division by Zero), Edge Case Handling (Invalid Operator), Logical Conditions, Bug Fixing (Exponentiation Operator Correction)**
+
+```
+num1 = int(input("Enter First Number: "))
+num2 = int(input("Enter Second Number: "))
+operator = input("Enter Operator (+, -, *, /, %, //, **, &, |, ^, ~, <<, >>, ==, !=, <, >, <=, >=): ")
+
+if operator == "+":
+    result = num1 + num2
+elif operator == "-":
+    result = num1 - num2
+elif operator == "*":
+    result = num1 * num2
+elif operator == "/":
+    result = num1 / num2 if num2 != 0 else "Error! Division by zero."
+elif operator == "%":
+    result = num1 % num2
+elif operator == "//":
+    result = num1 // num2
+elif operator == "":
+    result = num1 ** num2
+elif operator == "&":
+    result = num1 & num2
+elif operator == "|":
+    result = num1 | num2
+elif operator == "^":
+    result = num1 ^ num2
+elif operator == ">>":
+    result = num1 >> num2
+elif operator == "<<":
+    result = num1 << num2
+elif operator == "==":
+    result = num1 == num2
+elif operator == "!=":
+    result = num1 != num2
+elif operator == ">":
+    result = num1 > num2
+elif operator == "<":
+    result = num1 < num2
+elif operator == ">=":
+    result = num1 >= num2
+elif operator == "<=":
+    result = num1 <= num2
+else:
+    result = "Invalid operator!"
+
+print(f"Result: {result}")
+```
+**Output:**
+Enter First Number: 125
+Enter Second Number: 126
+Enter Operator (+, -, *, /, %, //, **, &, |, ^, ~, <<, >>, ==, !=, <, >, <=, >=): &
+Result: 124
