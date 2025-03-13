@@ -77,4 +77,4 @@ Height: 1.75 meters
 
 Student: True
 
-Creating an Advanced Calculator Using 
+Creating an Advanced Calculator Using Arithematic, 
