@@ -126,7 +126,11 @@ else:
 print(f"Result: {result}")
 ```
 **Output:**
+
 Enter First Number: 125
+
 Enter Second Number: 126
+
 Enter Operator (+, -, *, /, %, //, **, &, |, ^, ~, <<, >>, ==, !=, <, >, <=, >=): &
+
 Result: 124
